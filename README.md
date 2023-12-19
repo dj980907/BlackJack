@@ -41,4 +41,5 @@ This is a two-player (user vs computer) client-side card game. The card game wil
 </ul>
 
 ## Game Play
-![Screen Recording 2023-12-18 at 11 03 03 PM](https://github.com/dj980907/BlackJack/assets/108609222/d973c776-4a47-4a76-9710-a8d1a5f997cb)
+![ezgif com-video-to-gif-converted (1)](https://github.com/dj980907/BlackJack/assets/108609222/7eab17bb-0f3d-4f05-b528-6797d65fdc06)
+
