@@ -39,3 +39,5 @@ This is a two-player (user vs computer) client-side card game. The card game wil
             <li>again ties are possible (either same total, or both player "bust")
         </ul>
 </ul>
+
+## Game Play
